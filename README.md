@@ -1,4 +1,5 @@
 Hey! I'm Braxton Zand. A self-taught full stack web developer!
+
 In early 2021 I took it upon myself to learn computer science , going through Harvard's CS50, Introduction to Computer Science. Onto freecodecamp, and then The Odin Project.    I've fallen in love with the field and subject since then, taking each day to grow and polish my skills to become an adept full stack developer
 
 I'm currently working on different projects of my own, while also increasing my knowledge and tech stack.
